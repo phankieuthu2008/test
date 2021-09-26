@@ -1,0 +1,181 @@
+.test {
+
+    background-color:#cad3d3 ;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.tien{
+    width: 24%;
+    padding: 100px;
+    height: 70%;
+    padding-right: 20px;
+    padding-left: 100px;
+}
+.tien1{
+    width: 24%;
+    padding: 100px;
+    height: 70%;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.c{
+    border: 1px solid royalblue; 
+    max-width:100%;
+    height:800px ;
+    background-color: white;
+    
+
+    
+}
+.anh{
+    background-position: center;
+    width: 100%;
+
+}
+.o{
+    text-align: center;
+    font-size: 2.2em;
+    color:white;
+    position: absolute;
+    padding: 50px 0px 50px 90px;
+    
+}
+.o2{
+    text-align: center;
+    font-size: 2.2em;
+    color:white;
+    position: absolute;
+    padding: 50px 0px 50px 50px;
+}
+.o1{
+    text-align: center;
+    font-size: 0.8em;
+    color:white;
+    position: absolute;
+    padding: 110px 0px 50px 90px;
+}
+.do{
+    font-size: 1.9em;
+    padding: 30px ;
+    border-radius: 50%;
+    background:white;
+    text-align: center;
+    color: #3c9ef8;
+    font-family: 'Times New Roman';
+    
+   
+}
+.d{
+    font-size: 1.9em;
+    padding: 30px ;
+    border-radius: 50%;
+    background:black;
+    text-align: center;
+    color: #a13c79;
+    font-family: 'Times New Roman';
+}
+.d2{
+    font-size: 1.9em;
+    padding: 30px ;
+    border-radius: 50%;
+    background:white;
+    text-align: center;
+    color: #32ad1e;
+    font-family: 'Times New Roman';
+}
+.t{
+    margin:0px 5px 20px 40px;
+    color: silver;
+    
+}
+.t1{
+    margin:0px 5px px 40px;
+    color: silver;
+
+}
+.tong{
+    width: 100%;
+    height: 100px;
+    margin: 0px;
+}
+.sub{
+    font-size: 1.5em;
+    font-family: 'Times New Roman';
+    text-align: center;
+    margin-top: 20px;
+}
+.nho{
+    font-size: 1em;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+.under{
+    text-align: center;
+    font-size:1.2 ;
+    font-family: 'Times New Roman';
+}
+.under1{
+    background-color:#f4f6f7 ;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+.bam{
+    font-size: 1em;
+    color:#2196f7 ;
+    border-color:#2196f7 ;
+    background-color: white;
+    cursor: pointer;
+   margin: 30px 50px 60px 90px;
+    text-align: center;
+    padding: 15px;
+}
+.bam:hover{
+    background-color: #2196f7;
+    color: white;
+}
+.ngang{
+    display: flex;
+}
+.new{
+    background-image: url(./img/newmark.png);
+    font-size: 0.8em;
+    background-repeat: no-repeat;
+    padding:20px 50px 20px 20px ;
+
+    color: white;
+
+
+}
+.bam1{
+    font-size: 1em;
+    color:#6c136f ;
+    border-color:#6c136f ;
+    background-color: white;
+    cursor: pointer;
+   margin: 30px 50px 60px 90px;
+    text-align: center;
+    padding: 15px;
+}
+.bam1:hover{
+    background-color: #6c136f;
+    color:white;
+}
+.bam2{
+    font-size: 1em;
+    color:#32ad1e ;
+    border-color:#32ad1e;
+    background-color: white;
+    cursor: pointer;
+   margin: 30px 50px 60px 90px;
+    text-align: center;
+    padding: 15px;
+}
+.bam2:hover{
+    background-color: #32ad1e;
+    color:white;
+}
